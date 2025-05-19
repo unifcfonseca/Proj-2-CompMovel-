@@ -32,3 +32,10 @@ A partir do desenvolvimento deste projeto, foi possível fazer uma réplica da b
 Em repositórios do GitHub recomenda-se que imagens, vídeos, etc. sejam anexados de forma local utilizando `![Nome do arquivo](local do arquivo)`. Por exemplo, para adicionar uma imagem utiliza-se o seguinte:
 
 ![Stable Roll](./assets/STABLE.png)
+
+![tela 1](./capturas-de-tela/tela (1).jpeg)
+![tela 2](./capturas-de-tela/tela (2).jpeg)
+![tela 3](./capturas-de-tela/tela (3).jpeg)
+![tela 4](./capturas-de-tela/tela (4).jpeg)
+![tela 5](./capturas-de-tela/tela (5).jpeg)
+![tela 6](./capturas-de-tela/tela (6).jpeg)
