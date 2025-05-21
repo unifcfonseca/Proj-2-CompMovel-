@@ -33,9 +33,9 @@ Em repositórios do GitHub recomenda-se que imagens, vídeos, etc. sejam anexado
 
 ![Stable Roll](./assets/STABLE.png)
 
-![tela 1](./capturas-de-tela/tela (1).jpeg)
-![tela 2](./capturas-de-tela/tela (2).jpeg)
-![tela 3](./capturas-de-tela/tela (3).jpeg)
-![tela 4](./capturas-de-tela/tela (4).jpeg)
-![tela 5](./capturas-de-tela/tela (5).jpeg)
-![tela 6](./capturas-de-tela/tela (6).jpeg)
+![tela1](./capturas-de-tela/tela (1).jpeg)
+![tela2](./capturas-de-tela/tela (2).jpeg)
+![tela3](./capturas-de-tela/tela (3).jpeg)
+![tela4](./capturas-de-tela/tela (4).jpeg)
+![tela5](./capturas-de-tela/tela (5).jpeg)
+![tela6](./capturas-de-tela/tela (6).jpeg)
